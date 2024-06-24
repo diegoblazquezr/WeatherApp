@@ -1,0 +1,26 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoblazquezr/WeatherApp.git"
+  },
+  "author": "Diego Blazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoblazquezr/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/diegoblazquezr/WeatherApp#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "request": "^2.88.2"
+  }
+}
